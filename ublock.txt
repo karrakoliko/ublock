@@ -697,5 +697,50 @@ blog.logrocket.com##.tweet-embed-container
 ! 2023-04-02 https://vueschool.io
 vueschool.io###bb-banner
 
-! Hide the list install prompt for that list
-letsblock.it###install-prompt-ad0efb7e-8c4e-4e03-8f23-547b4a0f4338
+! 2023-04-11 https://www.sfh.com
+www.sfh.com##.needsclick
+
+! 2023-05-04 https://soccer365.me
+soccer365.me##selectbox-label:style(min-height:14px !important)
+
+||knigid.ru
+
+! 2023-05-05 https://www.ogorod.ru
+www.ogorod.ru##.app-popups__popup
+
+! 2023-07-04 https://vueformulate.com
+vueformulate.com##.the-formkit-teaser
+
+! 2023-07-10 https://disk.yandex.ru
+disk.yandex.ru##.InfoSpace_discount
+
+! 2023-07-11 https://click-or-die.ru
+click-or-die.ru##[src="/bs/1230x110/index.html?v=1"]
+
+! 2023-07-18 https://www.youporn.com
+www.youporn.com###cookie_consent_wrapper
+
+! 2023-07-20 https://www.marca.com
+www.marca.com##.widget-item.agenda:has(.guiatv-description)
+
+! 2023-08-24 https://bookmaker-ratings.ru
+bookmaker-ratings.ru##.block-banner
+bookmaker-ratings.ru##.top-stake-banner
+bookmaker-ratings.ru##.top-partner-home
+bookmaker-ratings.ru##.grid-partner-item
+bookmaker-ratings.ru##.branding-slide
+
+! 2023-09-13 https://www.sitepoint.com
+www.sitepoint.com##.lg\:basis-\[400px\].lg\:w-\[400px\].lg\:block.space-y-4.hidden.w-full
+
+! 2023-09-16 https://vladivostok.e2e4online.ru
+e2e4online.ru##.onboarding-block:has-text(Телеграм)
+
+! 2023-11-05 https://credistory.ru
+credistory.ru##mp-market-best
+
+! 2023-11-09 https://www.pizza-vl.ru
+www.pizza-vl.ru##.policy__container
+
+! 2023-11-18 https://www.futbolfantasy.com
+www.futbolfantasy.com##.vallas
