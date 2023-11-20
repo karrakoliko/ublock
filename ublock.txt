@@ -1,0 +1,701 @@
+! custom-rules
+warning.rt.ru
+ext-twitch.tv
+mradx.com
+mradx.net
+dev-nano.com
+gatpsstat.com
+monitor.firefox.com
+fileerrors.com
+ezobox.ru
+massolit.site
+
+! insecure to use firefox with extensions
+||accountviewer.stellar.org
+
+||vk.com/js/api/openapi.js$3p,important
+
+##[href^="https://pxl.leads.su/click/"]
+
+! paywall
+seekingalpha.com
+
+! 2020-09-06 https://www.yandex.ru
+yandex.ru##.distr-popup
+yandex.ru##.zalogin-smart
+yandex.ru##.ya-chat-widget
+yandex.ru##.serp-header__nav .yaplus
+
+! @@googlevideo.com$badfilter
+
+! 2020-09-09 https://zen.yandex.ru
+zen.yandex.ru##.article-right-ad-block
+zen.yandex.ru##.article-render__block_embed
+
+! 2020-09-09 https://www.twitch.tv
+twitch.tv##.extensions-dock__layout
+
+
+! 2020-09-10 https://rekkerd.org
+rekkerd.org##.td-header-sp-top-widget
+
+! 2020-09-14 https://novayagazeta.ru
+novayagazeta.ru##.donate-article
+novayagazeta.ru##.fb-embed
+
+! 2020-09-14 https://www.rbc.ru
+www.rbc.ru##.live-tv
+
+! 2020-09-14 https://music.yandex.ru
+music.yandex.ru##.teaser
+
+! 2020-09-18 https://yandex.ru
+yandex.ru###bk-container
+yandex.ru##.directblock
+
+! 2020-09-18 https://imtw.ru
+imtw.ru##.post_pole_post
+
+! 2020-09-21 https://www.twitch.tv
+www.twitch.tv##.tw-balloon:has-text(SUB)
+
+! 2020-09-22 https://yandex.ru
+yandex.ru##.sport-event-layout-right-column
+
+! 2020-09-22 https://vysokoff.ru
+vysokoff.ru##.webnavoz_notificationbox_visible.webnavoz_notificationbox
+
+||youtube.com/*/log_event*
+
+! 2020-09-23 https://www.computerra.ru
+www.computerra.ru##.subscription
+
+! 2020-09-23 https://poiskvps.ru
+poiskvps.ru##noindex
+poiskvps.ru###BlueB
+poiskvps.ru###ASponsorTable
+
+! 2020-09-25 https://odds.ru
+odds.ru##.catfish
+
+! 2020-10-05 https://vas3k.ru
+vas3k.ru##.block-paid.block-text
+
+! 2020-10-06 https://www.interfax.ru
+www.interfax.ru##.popupNowReading
+
+! 2020-10-12 https://soundstream.media
+soundstream.media##.hooper
+
+! 2020-10-15 https://www.avito.ru
+www.avito.ru##.item-view-ads
+
+! 2020-11-02 https://nb-bet.com
+nb-bet.com##.ban_container
+
+! 2020-11-02 https://click-or-die.ru
+click-or-die.ru##.sidebar > .sidebar-skidka
+
+! 2020-11-02 https://ironbets.ru
+||ironbets.ru/wp-content/uploads/2020/10/man_700h250.jpg$image
+||ironbets.ru/wp-content/uploads/2020/07/070_frt3_partner_bnr_sg_700x250.gif$image
+||ironbets.ru/wp-content/uploads/2020/10/man_700h250.jpg$image
+||ironbets.ru/wp-content/uploads/2020/09/700x250-3.gif$image
+||ironbets.ru/wp-content/uploads/2020/03/300.jpg$image
+||ironbets.ru/wp-content/uploads/2020/09/700x250-3.gif$image
+||ironbets.ru/wp-content/uploads/2020/10/man_700h250.jpg$image
+||ironbets.ru/wp-content/uploads/2020/03/700.jpg$image
+
+! 2020-11-05 https://odds.ru
+||odds.ru/assets/img/banners/1xstavka-tips.gif$image
+
+! 2020-11-14 https://ru.sportplus.live
+ru.sportplus.live##.card-banner
+
+! 2020-11-28 https://ppc.world
+ppc.world##.js-subscribe-modal-big
+
+! 2020-12-07 https://ros-nasledstvo.ru
+ros-nasledstvo.ru###vk_popup
+
+! 2020-12-08 https://www.b17.ru
+www.b17.ru##.stick_container
+||www.b17.ru/js/stick-to-me/pattern.png$image
+
+! 2020-12-14 https://tools.seo-zona.ru
+tools.seo-zona.ru###ochevidec
+
+! 2021-01-06 https://ru.kinorium.com
+ru.kinorium.com##.okko_stick
+
+! 2021-01-25 https://ru.kinorium.com
+ru.kinorium.com##.okko_1rub
+
+! 2021-01-08 https://www.modularscale.com
+www.modularscale.com##*:has-text(Advertisement) + *
+www.modularscale.com##small:has-text(Advertisement)
+
+! 2021-01-12 http://online-south-park.ru
+||online-south-park.ru/rust-banner.jpg
+
+! 2021-01-23 https://www.reg.ru
+www.reg.ru##.b-openID__list
+
+! 2021-01-24 https://zen.yandex.ru
+zen.yandex.ru##.article-ad-comments
+
+
+! 2021-02-03 https://vds.menu
+vds.menu##tr.info:has(span:has-text(Реклама))
+
+! 2021-02-06 https://track24.ru
+track24.ru##.advertising
+
+! 2021-03-01 https://blog.fenix.help
+blog.fenix.help###subscribe-prizes-popup
+
+! 2021-03-25 https://vk.com
+vk.com##.audio_promo
+
+! 2021-03-26 https://vk.com
+vk.com##.feed_blog_reminder_large
+
+! 2021-04-01 https://partnerkin.com
+partnerkin.com##.items > .match-height.content-block
+||partnerkin.com/images/banners/606454b6de8ba.gif$image
+||partnerkin.com/images/banners/*.gif$image
+||partnerkin.com/images/banners/*.jpg$image
+partnerkin.com##.hidden-sm.hidden-xs.topmenu_box.desktop_menu .sdv_item
+
+! 2021-04-02 https://www.anti-malware.ru
+www.anti-malware.ru###rotate1 > noindex
+www.anti-malware.ru##.active.rotate-banner
+
+! 2021-05-29 https://dad12.freehat.cc
+dad12.freehat.cc##.anons-for-player
+
+! 2021-06-20 https://www.yandex.ru
+www.yandex.ru##.serp-item:has(.label_theme_direct)
+
+! 2021-06-25 https://habr.com
+habr.com##div#widget.default-block_sidebar
+
+! 2021-06-28 https://highload.today
+@@||i.onthe.io^$image,domain=highload.today
+
+! 2021-07-05 https://torshina.me
+torshina.me##[href^="bannerclick"]
+
+! 2021-07-29 https://russiarunning.com
+russiarunning.com##.ad-pic
+
+! 2021-08-08 https://evilinside.ru
+evilinside.ru##.ltteleg-overlay
+
+! 2021-08-09 https://www.klerk.ru
+www.klerk.ru##.promotion
+
+! 2021-08-09 https://glavkniga.ru
+glavkniga.ru##.pbi_banner_area
+
+! 2021-08-12 https://okko.sport
+||clients-static.okko.tv/web/banners/winline/*$subdocument
+
+! 2021-08-17 https://footystats.org
+footystats.org##.shown.pa1e.bbox.css3-primer
+
+! 2021-08-26 https://dailyfantasysports.ru
+dailyfantasysports.ru###tpbr_topbar
+
+! 2021-09-02 https://football.kulichki.net
+football.kulichki.net##[href^="https://affpros.net/"]
+
+! 2021-09-10 https://www.athletic-club.eus
+www.athletic-club.eus##.cookies-panel-wrapper
+
+! 2021-09-19 https://verybet.ru
+verybet.ru##.size-full.wp-block-image > [href="https://verybet.ru/go/winline"]
+
+! 2021-09-28 https://www.manutd.com
+www.manutd.com##.dialog-overlay
+
+! 2021-11-08 https://zakonguru.com
+||zakonguru.com/*$subdocument
+
+! 2021-11-18 https://m-strana.ru
+m-strana.ru##.agreement-cookie
+m-strana.ru##.subscription
+
+||vpn.mozilla.org
+
+! 2021-12-01 https://music.yandex.ru
+music.yandex.ru##.lego-button
+
+! 2021-12-03 https://onstartup.ru
+onstartup.ru##[href^="https://go.avck.ws"]
+
+! 2021-12-05 https://b-stom.ru
+b-stom.ru###cookies
+
+! 2021-12-05 https://lstom.ru
+lstom.ru###cookies
+
+! 2021-12-24 https://www.medicina.ru
+www.medicina.ru##.popup-fade:has(.title:has-text(перезвоним))
+
+! 2021-12-25 https://7days.ru
+7days.ru##.base-material-7days__player-fixed-box
+
+! 2022-01-01 https://ru.kinorium.com
+ru.kinorium.com##.background-picture__link
+ru.kinorium.com##body:style(margin-top:0 !important;)
+
+! 2022-01-02 https://okko.sport
+||clients-static.okko.tv/web/logos/winline/winline_logo.svg$image
+
+! 2022-01-05 https://bukmekerov.net
+bukmekerov.net##.thirstylinkimg
+bukmekerov.net##.s-bonuses
+bukmekerov.net##.s-recommend
+
+! 2022-01-13 https://www.whoscored.com
+www.whoscored.com###freebets-box
+
+! 2022-01-22 https://pixelplus.ru
+pixelplus.ru##.bn-popup
+
+! 2022-01-23 https://ok.ru
+ok.ru##.auth-login_auth-login-popup.h-mod
+
+! 2022-01-23 https://zen.yandex.ru
+zen.yandex.ru##.article__right
+
+! 2022-02-28 https://www.moex.com
+www.moex.com##.ui-pnotify
+
+! 2022-03-19 https://h52.liveball.pro
+||avr.i-trailer.ru/vpaut/asplayer.php$subdocument
+
+! 2022-03-28 https://gold.ru
+gold.ru##[href^="https://zoloto-md.ru"]
+gold.ru##[href^="https://slitok.gold"]
+
+! 2022-04-05 https://journal.open-broker.ru
+journal.open-broker.ru##.open-broker-block
+
+! 2022-05-05 https://oznakomstve.ru
+oznakomstve.ru##.fpa-block
+
+! 2022-06-06 https://moon-today.com
+moon-today.com##.vk_msg
+
+! 2022-06-21 https://reflectoring.io
+reflectoring.io##.slide-right.popup-xs
+
+! 2022-06-27 https://stackoverflow.com
+stackoverflow.com###launch-popover
+
+! 2022-06-29 https://hug.ru
+hug.ru###myself-popup
+hug.ru###myself-popup-bg
+hug.ru###three_steps_widget
+
+! 2022-06-29 https://blog.mylablife.ru
+blog.mylablife.ru###fixedWidget
+blog.mylablife.ru###pop-up_from
+blog.mylablife.ru##noindex
+
+! 2022-06-29 https://sovjen.ru
+sovjen.ru##.fpm_5_modal-overlay
+sovjen.ru##.fpm_5_modal
+
+! 2022-06-29 https://astro7.ru
+astro7.ru##.bot-chat
+
+! 2022-07-14 https://www.sports.ru
+! www.sports.ru##a.fantasy-match-item__odds-link
+
+! 2022-07-16 https://www.sports.ru
+www.sports.ru##.fantasy-match-list__bookmaker-logo
+
+! 2022-07-23 https://www.sports.ru
+www.sports.ru##.news-group__item:has(.news-card__type:has-text(Реклама))
+
+! 2022-07-25 https://www.sports.ru
+www.sports.ru##.fantasy-header__bookmaker-logo
+www.sports.ru##.fantasy-match-list__bonus-button
+
+! 2022-07-29 https://brewtea.ru
+brewtea.ru##.popub-banner
+brewtea.ru##.banner-top-post
+
+! 2022-07-30 https://sdent-clinic.ru
+sdent-clinic.ru##.bottom-quiz
+
+! 2022-08-02 https://voronaz.ru
+voronaz.ru##[rel^="sponsored"]
+
+! 2022-08-21 https://www.sports.ru
+www.sports.ru##.news-card:has([rel^="sponsored"])
+
+! 2022-08-27 https://www.100sp.ru
+www.100sp.ru##.fox-tile-header
+
+||clients-static.okko.tv/web/banners/*$subdocument
+okko.sport##a[rel="noopener noreferrer nofollow"]
+
+! 2022-08-27 https://www.sports.ru
+www.sports.ru##.fantasy-winline-app
+
+! 2022-08-27 https://okko.sport
+||okko.sport/assets/js/sber-visor.js$script,1p
+
+! 2022-09-03 https://www.youtube.com
+www.youtube.com###chat
+www.youtube.com###comments
+
+##[href^="https://zxoedq.com/"]
+##[href^="https://luckyads.pro/"]
+
+! 2022-09-04 https://www.cbtnuggets.com
+www.cbtnuggets.com##:xpath(//*[contains(@class,'StyledBlogRelatedCourse')])
+www.cbtnuggets.com##:xpath(//*[contains(@class,'StyledBlogPostSubscribe')])
+
+! 2022-09-04 https://duckduckgo.com
+duckduckgo.com##.feedback-btn
+
+! 2022-09-09 https://cyber.sports.ru
+cyber.sports.ru##.teaser-bookmaker
+
+! 2022-09-09 https://www.sports.ru
+www.sports.ru##.okko-button
+
+! 2022-09-09 https://www.sberbank.ru
+www.sberbank.ru###virtual-assistant
+
+! 2022-09-09 https://www.yosx.ru
+www.yosx.ru###adult_confirm
+
+! 2022-09-11 https://www.sports.ru
+www.sports.ru##.material-list__item:has(.content-label:has-text(Реклама))
+
+! 2022-09-11 https://click-or-die.ru
+click-or-die.ru###widgetTw
+click-or-die.ru###widgetTw2
+
+||45.148.120.191
+
+! 2022-09-13 https://phoenixnap.com
+phoenixnap.com##.live-chat-btn
+
+! 2022-09-17 https://duckduckgo.com
+duckduckgo.com##.badge-link
+duckduckgo.com###spread
+duckduckgo.com###wedonttrack
+
+! 2022-09-27 https://www.auvik.com
+www.auvik.com##.fancybox-container:has(.banner)
+www.auvik.com##body:style(overflow-y:scroll !important)
+
+! 2022-09-27 https://tproger.ru
+tproger.ru##.float-video-container
+
+! 2022-09-29 https://www.searchenginewatch.com
+www.searchenginewatch.com##.inline-whitepaper-promo-content
+
+! 2022-09-30 https://novayagazeta.eu
+novayagazeta.eu###mainNode div:matches-css(position: fixed)
+novayagazeta.eu##.donate-block-europe
+
+! 2022-09-30 https://habr.com
+habr.com##.tm-company-widgets
+
+! 2022-10-01 https://www.datalight.com
+www.datalight.com##.c-postfooter
+
+! 2022-10-01 https://www.educba.com
+www.educba.com##.code-block:has(.bundle_link)
+www.educba.com##.entry-content:xpath(*[contains(@class,"banner-")])
+
+! 2022-10-04 https://www.sportsgambler.com
+www.sportsgambler.com##.livestream-cta
+www.sportsgambler.com##.content-block:has(.title-medium:has-text(Betting Sites))
+www.sportsgambler.com##.widget:has(a[href^="/r/"])
+
+! 2022-08-27 https://www.restoran.ru
+##.cookie-line
+
+! 2022-09-03 https://alpha-psy.ru
+
+
+alpha-psy.ru##[href^="http://clickpzk.com"]
+alpha-psy.ru###cookie-law-info-bar
+
+! 2022-09-03 https://otnoscheniya.com
+otnoscheniya.com###slideup_form
+
+! 2022-09-03 https://tobefit.ru
+
+tobefit.ru##.smart-app-wrapper
+
+! 2022-09-03 https://elementaree.ru
+elementaree.ru##.app-notificiation__root
+elementaree.ru##.tn-atom
+
+@@s5o.ru/storage/*$image
+
+! 2022-10-05 https://clutch.net.ua
+clutch.net.ua##.b_popular-article
+
+! 2022-10-05 https://angelnumber.ru
+angelnumber.ru##.clearfy-cookie-container
+
+! 2022-10-05 https://habr.com
+habr.com##.tm-stories-block
+
+##.after-post-box
+
+! 2022-10-07 https://www.joelonsoftware.com
+www.joelonsoftware.com##.widget_text.widget:has(.widget-title:has-text(Subscribe))
+
+! 2022-10-11 https://refactoring.guru
+refactoring.guru##.banner-inner
+refactoring.guru###book-promo
+
+! 2022-10-13 https://www.ghacks.net
+www.ghacks.net###snippet-box
+
+! 2022-10-13 https://techcrunch.com
+techcrunch.com##.rightrail--promo
+
+! 2022-10-08 https://globalmsk.ru
+||globalmsk.ru/usr/promotion/*$image
+
+! 2022-10-14 https://blog.desdelinux.net
+##.machete_cookie_bar
+
+! 2022-10-21 https://stackoverflow.com
+stackoverflow.com##.s-popover
+
+! 2022-10-21 https://www.aceinfoway.com
+www.aceinfoway.com##.dae-shortcode-download-wrapper
+www.aceinfoway.com##.related-post
+www.aceinfoway.com##.bf-newsletter
+www.aceinfoway.com##.widget:has(.widget-title:has-text(Get in Touch))
+
+! 2022-10-27 https://highload.today
+highload.today##.course-widget
+
+! 2022-10-28 https://makandracards.com
+makandracards.com##.text_ad
+
+! 2022-11-01 https://www.sports.ru
+www.sports.ru##.aside-news-list__item:has(.aside-news-list__advert)
+
+! 2022-10-28 https://visasam.ru
+##.clearfy-cookie
+
+! 2022-11-01 https://www.vidal.ru
+##.cookie-notice
+
+! 2022-11-02 https://tastybar.ru
+##.accept-cookies
+
+! 2022-11-02 https://www.joppy.me
+###cookieClaim
+
+! 2022-11-05 https://ourcodeworld.com
+ourcodeworld.com###we-stand-with-ukraine
+
+! 2022-11-09 https://tion.ru
+tion.ru##.tes-cookies-agreements
+! 2022-10-28 https://visasam.ru
+##.clearfy-cookie
+
+! 2022-11-01 https://www.vidal.ru
+##.cookie-notice
+
+! 2022-11-02 https://tastybar.ru
+##.accept-cookies
+
+! 2022-11-07 https://www.vidal.ru
+www.vidal.ru##.cookie-notice
+
+! 2022-11-08 https://mainfin.ru
+mainfin.ru##.pushup--subscribe
+
+! 2022-11-12 https://soccer365.me
+||s.scr365.net/img/bg_default.jpg$image
+
+sports.ru##.one-message:style(user-select:text!important)
+
+! 2022-11-15 https://artracam.com
+artracam.com##.bannerSorbiPos
+
+||www.youtube.com/s/gaming/emoji/*.svg
+||www.youtube.com/youtubei/v*/live_chat/*
+
+! 2022-11-17 https://www.dpd.ru
+||www.dpd.ru/template2/newimages/banners/get4click_d.jpg$image
+||www.dpd.ru/template2/newimages/banners/trace_sokolov.png$image
+||www.dpd.ru/template2/newimages/banners/banner_mob_*.png$image
+
+! 2022-11-19 https://skin.ru
+skin.ru##.gtm-promo
+skin.ru##.promo-widget
+
+! 2022-11-18 https://mixfan.ru
+mixfan.ru##.confirm-cookies
+
+! 2022-11-23 https://www.sports.ru
+www.sports.ru##.fantasy-header__bookmaker-wrapper
+
+! 2022-12-07 https://brainhub.eu
+brainhub.eu##.cookies
+
+! 2022-12-16 https://www.bitdegree.org
+www.bitdegree.org##.main-sale-container
+www.bitdegree.org##.top-providers
+
+! 2022-12-16 https://stitcher.io
+stitcher.io##.datadog
+
+! 2022-12-17 https://graziamagazine.ru
+graziamagazine.ru##.app-popups__popup
+
+! 2022-12-17 https://tarotman.ru
+tarotman.ru##.post_popup_container
+tarotman.ru##.theiaStickySidebar
+tarotman.ru##.block-ad-custom-content2
+
+! 2022-12-17 https://www.baeldung.com
+www.baeldung.com##[href="/lss-course"]
+
+! 2022-12-18 https://blog.ssdnodes.com
+blog.ssdnodes.com##.sale-banner
+||blog.ssdnodes.com/blog/wp-content/uploads/2022/12/SSDNODES_Promotion_Blog1-2.jpg$image
+blog.ssdnodes.com##.cta-inline
+
+! 2022-12-26 https://blog.packagecloud.io
+blog.packagecloud.io###first-box
+blog.packagecloud.io###second-box
+blog.packagecloud.io##.banner-cta
+
+! 2022-12-28 https://www.twilio.com
+www.twilio.com##.promo
+
+! 2022-12-28 https://www.dns-shop.ru
+www.dns-shop.ru##.ec-promo
+
+! 2022-12-28 https://www.litres.ru
+www.litres.ru##*:xpath(*[contains(@class,"CookieAcceptPopup")])
+www.litres.ru##.support-btn_zendesk
+! 2022-12-29 https://www.thevoicemag.ru
+www.thevoicemag.ru##.app-popup
+
+! 2023-01-11 https://smmplanner.com
+smmplanner.com##[href^="https://page.smmplanner.com/autoposting_social_pages"]
+
+! 2023-01-11 https://blog.oy-li.ru
+blog.oy-li.ru##.blog_post_banner
+blog.oy-li.ru##.big_banner_handler
+blog.oy-li.ru##.right-banner
+blog.oy-li.ru##.banner_top_panel_handler
+
+! 2023-01-11 https://blog.alter.ru
+blog.alter.ru##.lp-wrapper
+blog.alter.ru##.lp-background
+
+! 2023-01-12 https://www.bannerbear.com
+www.bannerbear.com##.subscribe_modal
+
+! 2023-01-13 https://www.hubledigital.com
+www.hubledigital.com##.mega-menu
+
+! 2023-01-21 https://litebox.ru
+litebox.ru##.is-cookie-alert
+
+! 2022-12-11 https://iwconnect.com
+iwconnect.com##.cookie-notice-container
+iwconnect.com##.cookie-notice-container
+
+! 2022-12-12 https://www.cochrane.org
+www.cochrane.org###cookienotice
+
+! 2022-12-12 https://www.nur.kz
+www.nur.kz##.cookie-popup
+
+! 2022-12-13 https://techblog.sdstudio.top
+techblog.sdstudio.top##.bs-gdpr-law
+
+! 2022-12-14 https://link.springer.com
+link.springer.com##.cc-banner
+
+! 2022-12-14 https://blog.appsignal.com
+blog.appsignal.com##.text-gray-800.rounded-t.bg-white.shadow.space-x-4.p-4.sm\:w-auto.w-full.z-20.bottom-0.fixed
+
+! 2022-12-14 https://ximpleware.wordpress.com
+ximpleware.wordpress.com##.ads-active.hide-on-button
+
+! 2022-12-18 https://support.roku.com
+support.roku.com##.roku-cookie-consent
+
+! 2022-12-19 https://inchoo.net
+inchoo.net##.c-cookie-banner
+
+! 2023-01-02 https://naukograd-dubna.ru
+naukograd-dubna.ru##.metrica-warning
+
+! 2023-01-22 https://blog.beatstars.com
+blog.beatstars.com##.w-clearfix.fs-cookie-popup
+
+! 2023-02-11 https://ezoterika.ru
+ezoterika.ru##*[href="//t.me/reinkarnaciolog"]
+ezoterika.ru##.social_share_button_wrapper
+
+! 2022-12-10 https://symfony.com
+symfony.com##.doc-content-embedded-sidebar
+symfony.com##.doc-content:style(max-width:unset !important)
+symfony.com##.ui-prose:style(max-width:960px !important)
+
+
+! 2023-03-04 https://freedomtampons.com
+##.cookies-consent--box
+
+! 2023-02-10 https://vk.com
+vk.com##.EmptyDialogStickers
+
+! 2023-02-10 https://techrocks.ru
+techrocks.ru##.telegram_block
+
+! 2023-02-13 https://blog.logrocket.com
+blog.logrocket.com##.news-pop
+blog.logrocket.com##.gutter-link
+
+! 2023-02-15 https://www.carrotquest.io
+www.carrotquest.io##.carrot-messenger-frame-container
+
+! 2023-03-07 https://www.primbank.ru
+www.primbank.ru##.your-city-modal
+
+! 2023-03-12 https://www.ansiblepilot.com
+www.ansiblepilot.com##.overlay-cta
+
+! 2023-03-12 https://openvpn.net
+openvpn.net##.ovpn__floating-cta
+
+! 2023-03-27 https://vuejsdevelopers.com
+vuejsdevelopers.com###bb-banner
+
+! 2023-03-27 https://blog.logrocket.com
+blog.logrocket.com##.tweet-embed-container
+
+! 2023-03-28 https://vueschool.io
+||vueschool.io/images/banners/*$image
+||vueschool.io/images/banners/*$image
+
+! 2023-04-02 https://vueschool.io
+vueschool.io###bb-banner
+
+! Hide the list install prompt for that list
+letsblock.it###install-prompt-ad0efb7e-8c4e-4e03-8f23-547b4a0f4338
