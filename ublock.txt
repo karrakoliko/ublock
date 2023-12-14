@@ -744,3 +744,14 @@ www.pizza-vl.ru##.policy__container
 
 ! 2023-11-18 https://www.futbolfantasy.com
 www.futbolfantasy.com##.vallas
+
+! 2023-12-10 https://www.vbr.ru
+www.vbr.ru##.product-card-tgb-body:has(.tgb-hint:has-text(Реклама))
+www.vbr.ru##.branding_body_new
+www.vbr.ru##.branding_top_new
+www.vbr.ru##html:style(overflow:scroll !important)
+www.vbr.ru##.product-card-item:has(.product-card-license:has-text(Реклама.))
+www.vbr.ru##.tgb-stick
+
+! 2023-12-10 https://www.banki.ru
+www.banki.ru##.beautiful-slider--desktop
