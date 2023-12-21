@@ -755,3 +755,9 @@ www.vbr.ru##.tgb-stick
 
 ! 2023-12-10 https://www.banki.ru
 www.banki.ru##.beautiful-slider--desktop
+
+! 2023-12-19 http://www.svetmayaka.ru
+www.svetmayaka.ru##.alert
+
+! 2023-12-19 https://pikabu.ru
+||autofill.yandex.ru/suggest$subdocument
