@@ -761,3 +761,20 @@ www.svetmayaka.ru##.alert
 
 ! 2023-12-19 https://pikabu.ru
 ||autofill.yandex.ru/suggest$subdocument
+
+! 2023-12-31 https://style4man.com
+||style4man.com/wp-content/uploads/2020/05/style4man-telegram.jpg$image
+
+! 2024-01-01 https://www.anna-key.ru
+www.anna-key.ru##.popup-wheel
+www.anna-key.ru##.widget-dynamic
+www.anna-key.ru##.widget.js-open-slot
+www.anna-key.ru###top_ten
+www.anna-key.ru##.eyelash-extension
+www.anna-key.ru##.rlink-modern
+www.anna-key.ru###blog_inner
+www.anna-key.ru##.top-big-slide
+
+! 2024-01-05 https://osocionike.ru
+osocionike.ru##.left-bottom
+osocionike.ru##[href^="https://edprofi.ru"]
