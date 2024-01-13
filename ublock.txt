@@ -778,3 +778,6 @@ www.anna-key.ru##.top-big-slide
 ! 2024-01-05 https://osocionike.ru
 osocionike.ru##.left-bottom
 osocionike.ru##[href^="https://edprofi.ru"]
+
+! 2024-01-09 https://www.holodilnik.ru
+www.holodilnik.ru##.notify-layer--cookie
