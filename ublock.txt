@@ -815,3 +815,13 @@ www.dohod.ru##.cookiemsg
 
 ! 2024-01-18 https://investfunds.ru
 investfunds.ru##.cookie_panel_wrapper
+
+! 2024-01-22 https://serebrorus.ru
+serebrorus.ru##.action-popup
+
+! 2024-01-27 https://www.db-fiddle.com
+www.db-fiddle.com##.toaster:has-text(DB Recruiter)
+www.db-fiddle.com###fiddle-editor-sidebar-ad
+
+! 2024-01-27 https://sql-ex.ru
+sql-ex.ru##.karpov-cources-ads
