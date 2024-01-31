@@ -861,3 +861,6 @@ raexpert.ru##.popup-block
 
 ! 2024-01-29 https://fotc.com
 fotc.com###cookiescript_injected
+
+! 2024-01-31 https://www.sports.ru
+www.sports.ru##.fantasy-background-link
