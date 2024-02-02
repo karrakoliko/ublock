@@ -864,3 +864,9 @@ fotc.com###cookiescript_injected
 
 ! 2024-01-31 https://www.sports.ru
 www.sports.ru##.fantasy-background-link
+
+! 2024-01-31 https://www.holodilnik.ru
+www.holodilnik.ru##.carousel-bottom-promos
+
+! 2024-02-02 https://www.sports.ru
+www.sports.ru##.carousel-of-cards:has(*[href^="https://sirena.world"])
