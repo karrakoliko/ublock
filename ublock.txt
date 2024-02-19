@@ -13,6 +13,13 @@ massolit.site
 ! insecure to use firefox with extensions
 ||accountviewer.stellar.org
 
+! manually added global rules
+##.cookie-policy
+##.cookies-agree
+##.cookie_popup
+##.wd-cookies-popup
+##.clearfy-cookie
+
 ||vk.com/js/api/openapi.js$3p,important
 
 ##[href^="https://pxl.leads.su/click/"]
@@ -870,3 +877,21 @@ www.holodilnik.ru##.carousel-bottom-promos
 
 ! 2024-02-02 https://www.sports.ru
 www.sports.ru##.carousel-of-cards:has(*[href^="https://sirena.world"])
+
+! 2024-02-04 http://www.sberbank.ru
+www.sberbank.ru##.corp-cookies-warning
+
+! 2024-02-05 https://www.aton.ru
+www.aton.ru##.cookie-policy
+
+! 2024-02-09 https://www.smdoctor.ru
+www.smdoctor.ru##.cookies-agree
+
+! 2024-02-10 https://teledoctor24.ru
+teledoctor24.ru##.cookie_popup
+
+! 2024-02-18 https://icdmc.ru
+icdmc.ru##.wd-cookies-popup
+
+! 2024-02-18 https://famt.ru
+famt.ru##.clearfy-cookie
