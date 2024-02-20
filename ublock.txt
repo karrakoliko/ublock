@@ -19,6 +19,7 @@ massolit.site
 ##.cookie_popup
 ##.wd-cookies-popup
 ##.clearfy-cookie
+##.cookies
 
 ||vk.com/js/api/openapi.js$3p,important
 
