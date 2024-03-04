@@ -896,3 +896,9 @@ icdmc.ru##.wd-cookies-popup
 
 ! 2024-02-18 https://famt.ru
 famt.ru##.clearfy-cookie
+
+! 2024-02-25 https://dev.to
+dev.to##.crayons-sponsorship
+
+! 2024-03-03 https://gitverse.ru
+gitverse.ru##.fixed:has-text(cookies)
