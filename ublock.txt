@@ -902,3 +902,6 @@ dev.to##.crayons-sponsorship
 
 ! 2024-03-03 https://gitverse.ru
 gitverse.ru##.fixed:has-text(cookies)
+
+! 2024-03-03 https://yoomoney.ru
+yoomoney.ru##.qa-success-offers-block
