@@ -905,3 +905,8 @@ gitverse.ru##.fixed:has-text(cookies)
 
 ! 2024-03-03 https://yoomoney.ru
 yoomoney.ru##.qa-success-offers-block
+
+! 2024-03-13 https://legalbet.ru
+legalbet.ru##div > iframe
+||avatars.mds.yandex.net/get-adfox-content/$image
+legalbet.ru##.promo-articles
