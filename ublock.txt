@@ -910,3 +910,6 @@ yoomoney.ru##.qa-success-offers-block
 legalbet.ru##div > iframe
 ||avatars.mds.yandex.net/get-adfox-content/$image
 legalbet.ru##.promo-articles
+
+! Aug 13, 2024 https://www.sports.ru
+www.sports.ru##.fantasy-after-save-adv-popup.ui-modal
