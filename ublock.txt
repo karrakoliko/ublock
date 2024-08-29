@@ -913,3 +913,6 @@ legalbet.ru##.promo-articles
 
 ! Aug 13, 2024 https://www.sports.ru
 www.sports.ru##.fantasy-after-save-adv-popup.ui-modal
+
+! Aug 29, 2024 https://tproger.ru
+tproger.ru##.tp-push-notification-permission-modal
