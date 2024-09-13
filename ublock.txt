@@ -916,3 +916,6 @@ www.sports.ru##.fantasy-after-save-adv-popup.ui-modal
 
 ! Aug 29, 2024 https://tproger.ru
 tproger.ru##.tp-push-notification-permission-modal
+
+! Sep 13, 2024 https://www.analiticafantasy.com
+www.analiticafantasy.com##.desktop-navigation-container:style(top:0 !important)
