@@ -919,3 +919,6 @@ tproger.ru##.tp-push-notification-permission-modal
 
 ! Sep 13, 2024 https://www.analiticafantasy.com
 www.analiticafantasy.com##.desktop-navigation-container:style(top:0 !important)
+
+! Sep 19, 2024 https://soccer365.me
+soccer365.me##.adv
