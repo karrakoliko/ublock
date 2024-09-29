@@ -922,3 +922,6 @@ www.analiticafantasy.com##.desktop-navigation-container:style(top:0 !important)
 
 ! Sep 19, 2024 https://soccer365.me
 soccer365.me##.adv
+
+! Sep 22, 2024 https://www.flashscore.com
+www.flashscore.com##.bettingStrip
