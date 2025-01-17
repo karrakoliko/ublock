@@ -925,3 +925,10 @@ soccer365.me##.adv
 
 ! Sep 22, 2024 https://www.flashscore.com
 www.flashscore.com##.bettingStrip
+
+! Nov 5, 2024 https://www.timeanddate.com
+www.timeanddate.com##.layout-cards
+
+! Jan 17, 2025 https://astronumerology.me
+astronumerology.me##.add-to-favourites
+
