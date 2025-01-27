@@ -932,3 +932,5 @@ www.timeanddate.com##.layout-cards
 ! Jan 17, 2025 https://astronumerology.me
 astronumerology.me##.add-to-favourites
 
+! Jan 22, 2025 https://locastic.com
+locastic.com##.fixed.ReactModal__Overlay--after-open
