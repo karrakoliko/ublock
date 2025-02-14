@@ -934,3 +934,9 @@ astronumerology.me##.add-to-favourites
 
 ! Jan 22, 2025 https://locastic.com
 locastic.com##.fixed.ReactModal__Overlay--after-open
+
+! Feb 1, 2025 https://readmedium.com
+readmedium.com##.relative.mt-4:has(.shadow-md:has(a:has-text("Free AI web copilot to create summaries")))
+
+! Feb 15, 2025 https://www.sports.ru
+www.sports.ru##.chat-room__message-list-item:has(.one-message__content:has(*[href^="https://www.sports.ru/profile/70416638/"]))
