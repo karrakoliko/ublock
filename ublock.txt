@@ -947,3 +947,5 @@ www.sports.ru##.chat-room__message-list-item:has(.one-message__content:has(*[hre
 ! Apr 5, 2025 https://m.sports.ru
 sports.ru##.post-promo
 sports.ru##.news-promo
+! Jun 12, 2025 https://www.sports.ru
+www.sports.ru##.fantasy-layout:style(background-image:none !important)
