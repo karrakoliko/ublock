@@ -1,5 +1,4 @@
 ! custom-rules
-warning.rt.ru
 ext-twitch.tv
 mradx.com
 mradx.net
