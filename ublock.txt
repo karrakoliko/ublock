@@ -72,8 +72,6 @@ yandex.ru##.sport-event-layout-right-column
 ! 2020-09-22 https://vysokoff.ru
 vysokoff.ru##.webnavoz_notificationbox_visible.webnavoz_notificationbox
 
-||youtube.com/*/log_event*
-
 ! 2020-09-23 https://www.computerra.ru
 www.computerra.ru##.subscription
 
@@ -357,10 +355,6 @@ www.sports.ru##.fantasy-winline-app
 ! 2022-08-27 https://okko.sport
 ||okko.sport/assets/js/sber-visor.js$script,1p
 
-! 2022-09-03 https://www.youtube.com
-www.youtube.com###chat
-www.youtube.com###comments
-
 ##[href^="https://zxoedq.com/"]
 ##[href^="https://luckyads.pro/"]
 
@@ -538,9 +532,6 @@ sports.ru##.one-message:style(user-select:text!important)
 
 ! 2022-11-15 https://artracam.com
 artracam.com##.bannerSorbiPos
-
-||www.youtube.com/s/gaming/emoji/*.svg
-||www.youtube.com/youtubei/v*/live_chat/*
 
 ! 2022-11-17 https://www.dpd.ru
 ||www.dpd.ru/template2/newimages/banners/get4click_d.jpg$image
