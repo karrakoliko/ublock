@@ -942,3 +942,29 @@ sports.ru##.post-promo
 sports.ru##.news-promo
 ! Jun 12, 2025 https://www.sports.ru
 www.sports.ru##.fantasy-layout:style(background-image:none !important)
+
+! Apr 19, 2026 https://freedium-mirror.cfd
+freedium-mirror.cfd##.storage-notification-container
+
+! Apr 25, 2026 https://seni.at
+seni.at##.cookies-at
+seni.at##.cookies-at-overlay
+
+! Apr 30, 2026 https://www.makeuseof.com
+www.makeuseof.com##.display-card-main-content-wrapper:has(a[rel~="sponsored"])
+
+! Jul 18, 2026 https://hh.ru
+hh.ru##.HH-ContainerForMicroFrontend-careerSearchBanner-3
+
+! Apr 19, 2026 https://freedium-mirror.cfd
+freedium-mirror.cfd##.storage-notification-container
+
+! Apr 25, 2026 https://seni.at
+seni.at##.cookies-at
+seni.at##.cookies-at-overlay
+
+! Apr 30, 2026 https://www.makeuseof.com
+www.makeuseof.com##.display-card-main-content-wrapper:has(a[rel~="sponsored"])
+
+! Jul 21, 2026 https://www.rbc.ru
+www.rbc.ru##article.info-block:has(.meta-info-row-wrapper:has-text("РБК и"))
